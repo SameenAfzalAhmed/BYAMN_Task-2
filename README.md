@@ -1,8 +1,16 @@
 📌 Task 2 – Managing & Monitoring Website Operations
 
-Role: Operations Associate Intern Sameen
-Organization: BYAMN
-Work Mode: Remote
+👤 Role
+
+Operations Associate Intern – Sameen
+
+🏢 Organization
+
+BYAMN
+
+🌍 Work Mode
+
+Remote
 
 📖 Overview
 
